@@ -1,0 +1,16 @@
+{
+  "name": "tp-schedule",
+  "version": "1.0.0",
+  "description": "toyproblems automated scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anes Marzooki",
+  "license": "ISC",
+  "dependencies": {
+    "github-api": "^3.3.0",
+    "node-schedule": "^1.3.2",
+    "octonode": "^0.10.0"
+  }
+}
